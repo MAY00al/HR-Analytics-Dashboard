@@ -1,6 +1,7 @@
 # HR Analytics Dashboard
 
 An end-to-end HR analytics project that demonstrates the complete data analytics workflow, from data cleaning and feature engineering to exploratory data analysis (EDA) and interactive dashboard development using Power BI.
+<img width="665" height="370" alt="Screenshot 2026-07-03 183714" src="https://github.com/user-attachments/assets/6acd929d-c896-46e9-9821-992fad83dc10" />
 
 ---
 
